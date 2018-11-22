@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ShowPage.qml</file>
+        <file>MenuPage.qml</file>
+        <file>MenuCtrl.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
